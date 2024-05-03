@@ -9,9 +9,9 @@ I'm a Solutions Engineer.
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I graduated studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m done learning (learning is never "done"😅 but...) Linux, Terraform, and Python. I'm currently learning Docker, Kubernetes, Jenkins, etc.
-- 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Cloud/DevOps Engineer (Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1YbTUgr524kU_KIapLbUm2M90cOXYgSBr/view?usp=sharing) and contact me by emailing ayobamisodiq68@gmail.com.
+- 😊 I’m seeking help with open-source projects, hackathons, internships, and full-time opportunities.
+- 💼 Job interests: Cloud/DevOps Engineer.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1YbTUgr524kU_KIapLbUm2M90cOXYgSBr/view?usp=sharing) and contact me by emailing ayobamisodiqcloud@gmail.com.
 
 ---
 
