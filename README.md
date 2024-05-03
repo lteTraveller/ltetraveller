@@ -11,7 +11,7 @@ I'm a Solutions Engineer.
 - 🌱 I’m done learning (learning is never "done"😅 but...) Linux, Terraform, and Python. I'm currently learning Docker, Kubernetes, Jenkins, etc.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and full-time opportunities.
 - 💼 Job interests: Cloud/DevOps Engineer.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1YbTUgr524kU_KIapLbUm2M90cOXYgSBr/view?usp=sharing) and contact me by emailing ayobamisodiqcloud@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1tufN-VCuRP8kXpjk2M2LM6OvpPA9PvQ6/view?usp=sharing) and contact me by emailing ayobamisodiqcloud@gmail.com.
 
 ---
 
