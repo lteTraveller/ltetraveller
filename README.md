@@ -7,7 +7,7 @@ I'm a Cloud Engineer.
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I graduated studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I graduated studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 I’m done learning (learning is never "done"😅 but...) Linux, Terraform, and Python. I'm currently learning Docker, Kubernetes, Jenkins, etc.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and full-time opportunities.
 - 💼 Job interests: Cloud/DevOps Engineer.
