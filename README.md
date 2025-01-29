@@ -11,7 +11,7 @@ I'm a Cloud Engineer.
 - 🌱 I’m done learning (learning is never "done"😅 but...) Linux, Terraform, and Python. I'm currently learning Docker, Kubernetes, Jenkins, etc.
 - 😊 I’m seeking help with open-source projects, internships, and full-time opportunities.
 - 💼 Job interests: Cloud/DevOps Engineer | Infrastructure Engineer | Solution Architect.
-- 📫 You can [view my resume](https://drive.google.com/file/d/10ekTXpTKUocxkScScwk32qeSNIc_-uKP/view?usp=sharing) and contact me by emailing ayobamisodiqcloud@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/10ekTXpTKUocxkScScwk32qeSNIc_-uKP/view?usp=sharing) and contact me by emailing ayobamisodiq68@gmail.com.
 
 ---
 
