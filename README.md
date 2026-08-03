@@ -8,10 +8,10 @@ I'm a Cloud & DevOps Engineer.
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I graduated from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 Currently learning: Kubernetes — after gaining practical experience with Linux, Terraform, and Python for automation and Infrastructure as Code (IaC).
-- ☁️ Technical interests: AWS, Azure, GCP, AI, CI/CD pipelines, containerization, and cloud security following the Zero Trust model.
+- 🌱 Currently learning: ML/AI.
+- ☁️ Technical interests: AWS, Azure, ML/AI, CI/CD pipelines, containerization, and cloud security following the Zero Trust model.
 - 🚀 What I’m looking for: Full-time opportunities where I can contribute to Cloud, DevOps, or Infrastructure Engineering projects while continuing to grow my expertise in automation and scalable system design.
-- 💼 Job interests: Solutions Architect | Infrastructure Engineer | Cloud/DevOps Engineer.
+- 💼 Job interests: Solutions Architect | Infrastructure Engineer | Cloud/DevOps Engineer | ML/AI Engineer.
 - 📫 You can [view my resume](https://drive.google.com/file/d/1-pOf71suZlurZAz-6k8kbqz37XJV2mik/view?usp=sharing) or reach me at ayobamisodiq68@gmail.com.
 
 ---
